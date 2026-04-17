@@ -30,7 +30,7 @@ import catSelectGreenUrl from '../../assets_png/cats_select/Green_Cat_select.png
 import catSelectOrangeUrl from '../../assets_png/cats_select/Orange_cat_select.png';
 
 import catSleepWhiteUrl from '../../assets_png/cats_sllep/White_Cat_sleep.png';
-import catSleepYellowUrl from '../../assets_png/cats_sllep/Yellow_cat_sleep.png';
+import catSleepYellowUrl from '../../assets_png/cats_sllep/Yellow_Cat_sleep.png';
 import catSleepPinkUrl from '../../assets_png/cats_sllep/Pink_Cat_sleep.png';
 import catSleepBlueUrl from '../../assets_png/cats_sllep/Blue_cat_sleep.png';
 import catSleepGreenUrl from '../../assets_png/cats_sllep/Green_Cat_sleep.png';
