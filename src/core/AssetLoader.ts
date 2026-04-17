@@ -15,26 +15,26 @@ import shelfBlueUrl from '../../assets_png/shelves/shelve_blue.png';
 import shelfGreenUrl from '../../assets_png/shelves/shelve_green.png';
 import shelfOrangeUrl from '../../assets_png/shelves/shelve_orange.png';
 
-import catIdleWhiteUrl from '../../assets_png/cats idle/White_cat_idle.png';
-import catIdleYellowUrl from '../../assets_png/cats idle/Yellow_cat_idle.png';
-import catIdlePinkUrl from '../../assets_png/cats idle/Pink_cat_idle.png';
-import catIdleBlueUrl from '../../assets_png/cats idle/Blue_cat_idle.png';
-import catIdleGreenUrl from '../../assets_png/cats idle/Green_cat_idle.png';
-import catIdleOrangeUrl from '../../assets_png/cats idle/Orange_Cat_idle.png';
+import catIdleWhiteUrl from '../../assets_png/cats_idle/White_cat_idle.png';
+import catIdleYellowUrl from '../../assets_png/cats_idle/Yellow_cat_idle.png';
+import catIdlePinkUrl from '../../assets_png/cats_idle/Pink_cat_idle.png';
+import catIdleBlueUrl from '../../assets_png/cats_idle/Blue_cat_idle.png';
+import catIdleGreenUrl from '../../assets_png/cats_idle/Green_cat_idle.png';
+import catIdleOrangeUrl from '../../assets_png/cats_idle/Orange_Cat_idle.png';
 
-import catSelectWhiteUrl from '../../assets_png/cats select/White_cat_select.png';
-import catSelectYellowUrl from '../../assets_png/cats select/Yellow_cat_select.png';
-import catSelectPinkUrl from '../../assets_png/cats select/Pink_Cat_select.png';
-import catSelectBlueUrl from '../../assets_png/cats select/Blue_cat_select.png';
-import catSelectGreenUrl from '../../assets_png/cats select/Green_Cat_select.png';
-import catSelectOrangeUrl from '../../assets_png/cats select/Orange_cat_select.png';
+import catSelectWhiteUrl from '../../assets_png/cats_select/White_cat_select.png';
+import catSelectYellowUrl from '../../assets_png/cats_select/Yellow_cat_select.png';
+import catSelectPinkUrl from '../../assets_png/cats_select/Pink_Cat_select.png';
+import catSelectBlueUrl from '../../assets_png/cats_select/Blue_cat_select.png';
+import catSelectGreenUrl from '../../assets_png/cats_select/Green_Cat_select.png';
+import catSelectOrangeUrl from '../../assets_png/cats_select/Orange_cat_select.png';
 
-import catSleepWhiteUrl from '../../assets_png/cats sllep/White_Cat_sleep.png';
-import catSleepYellowUrl from '../../assets_png/cats sllep/Yellow_cat_sleep.png';
-import catSleepPinkUrl from '../../assets_png/cats sllep/Pink_Cat_sleep.png';
-import catSleepBlueUrl from '../../assets_png/cats sllep/Blue_cat_sleep.png';
-import catSleepGreenUrl from '../../assets_png/cats sllep/Green_Cat_sleep.png';
-import catSleepOrangeUrl from '../../assets_png/cats sllep/Orange_Cat_sleep.png';
+import catSleepWhiteUrl from '../../assets_png/cats_sllep/White_Cat_sleep.png';
+import catSleepYellowUrl from '../../assets_png/cats_sllep/Yellow_cat_sleep.png';
+import catSleepPinkUrl from '../../assets_png/cats_sllep/Pink_Cat_sleep.png';
+import catSleepBlueUrl from '../../assets_png/cats_sllep/Blue_cat_sleep.png';
+import catSleepGreenUrl from '../../assets_png/cats_sllep/Green_Cat_sleep.png';
+import catSleepOrangeUrl from '../../assets_png/cats_sllep/Orange_Cat_sleep.png';
 
 const MANIFEST: Record<string, string> = {
     bg: bgUrl,
