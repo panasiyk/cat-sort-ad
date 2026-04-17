@@ -1,40 +1,40 @@
 import {Assets, type Texture} from 'pixi.js';
 import {CatColor} from '../types';
 
-import bgUrl from '../../assets_png/back.png';
-import overlayUrl from '../../assets_png/overlay.png';
-import shelvesUrl from '../../assets_png/shelves.png';
-import buttonUrl from '../../assets_png/Button.png';
-import ctaUrl from '../../assets_png/Call to action.png';
-import likeUrl from '../../assets_png/like.png';
+import bgUrl from '/back.png';
+import overlayUrl from '/overlay.png';
+import shelvesUrl from '/shelves.png';
+import buttonUrl from '/Button.png';
+import ctaUrl from '/Call to action.png';
+import likeUrl from '/like.png';
 
-import shelfWhiteUrl from '../../assets_png/shelves/shelve_white.png';
-import shelfYellowUrl from '../../assets_png/shelves/shelve_yellow.png';
-import shelfPinkUrl from '../../assets_png/shelves/shelve_pink.png';
-import shelfBlueUrl from '../../assets_png/shelves/shelve_blue.png';
-import shelfGreenUrl from '../../assets_png/shelves/shelve_green.png';
-import shelfOrangeUrl from '../../assets_png/shelves/shelve_orange.png';
+import shelfWhiteUrl from '/shelves/shelve_white.png';
+import shelfYellowUrl from '/shelves/shelve_yellow.png';
+import shelfPinkUrl from '/shelves/shelve_pink.png';
+import shelfBlueUrl from '/shelves/shelve_blue.png';
+import shelfGreenUrl from '/shelves/shelve_green.png';
+import shelfOrangeUrl from '/shelves/shelve_orange.png';
 
-import catIdleWhiteUrl from '../../assets_png/cats_idle/White_cat_idle.png';
-import catIdleYellowUrl from '../../assets_png/cats_idle/Yellow_cat_idle.png';
-import catIdlePinkUrl from '../../assets_png/cats_idle/Pink_cat_idle.png';
-import catIdleBlueUrl from '../../assets_png/cats_idle/Blue_cat_idle.png';
-import catIdleGreenUrl from '../../assets_png/cats_idle/Green_cat_idle.png';
-import catIdleOrangeUrl from '../../assets_png/cats_idle/Orange_Cat_idle.png';
+import catIdleWhiteUrl from '/cats_idle/White_cat_idle.png';
+import catIdleYellowUrl from '/cats_idle/Yellow_cat_idle.png';
+import catIdlePinkUrl from '/cats_idle/Pink_cat_idle.png';
+import catIdleBlueUrl from '/cats_idle/Blue_cat_idle.png';
+import catIdleGreenUrl from '/cats_idle/Green_cat_idle.png';
+import catIdleOrangeUrl from '/cats_idle/Orange_Cat_idle.png';
 
-import catSelectWhiteUrl from '../../assets_png/cats_select/White_cat_select.png';
-import catSelectYellowUrl from '../../assets_png/cats_select/Yellow_cat_select.png';
-import catSelectPinkUrl from '../../assets_png/cats_select/Pink_Cat_select.png';
-import catSelectBlueUrl from '../../assets_png/cats_select/Blue_cat_select.png';
-import catSelectGreenUrl from '../../assets_png/cats_select/Green_Cat_select.png';
-import catSelectOrangeUrl from '../../assets_png/cats_select/Orange_cat_select.png';
+import catSelectWhiteUrl from '/cats_select/White_cat_select.png';
+import catSelectYellowUrl from '/cats_select/Yellow_cat_select.png';
+import catSelectPinkUrl from '/cats_select/Pink_Cat_select.png';
+import catSelectBlueUrl from '/cats_select/Blue_cat_select.png';
+import catSelectGreenUrl from '/cats_select/Green_Cat_select.png';
+import catSelectOrangeUrl from '/cats_select/Orange_cat_select.png';
 
-import catSleepWhiteUrl from '../../assets_png/cats_sllep/White_Cat_sleep.png';
-import catSleepYellowUrl from '../../assets_png/cats_sllep/Yellow_cat_sleep.png';
-import catSleepPinkUrl from '../../assets_png/cats_sllep/Pink_Cat_sleep.png';
-import catSleepBlueUrl from '../../assets_png/cats_sllep/Blue_cat_sleep.png';
-import catSleepGreenUrl from '../../assets_png/cats_sllep/Green_Cat_sleep.png';
-import catSleepOrangeUrl from '../../assets_png/cats_sllep/Orange_Cat_sleep.png';
+import catSleepWhiteUrl from '/cats_sllep/White_Cat_sleep.png';
+import catSleepYellowUrl from '/cats_sllep/Yellow_cat_sleep.png';
+import catSleepPinkUrl from '/cats_sllep/Pink_Cat_sleep.png';
+import catSleepBlueUrl from '/cats_sllep/Blue_cat_sleep.png';
+import catSleepGreenUrl from '/cats_sllep/Green_Cat_sleep.png';
+import catSleepOrangeUrl from '/cats_sllep/Orange_Cat_sleep.png';
 
 const MANIFEST: Record<string, string> = {
     bg: bgUrl,
